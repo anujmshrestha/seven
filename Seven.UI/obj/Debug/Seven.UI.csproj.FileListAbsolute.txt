@@ -1,0 +1,15 @@
+c:\users\gongmakz\documents\visual studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.UI.exe.config
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.UI.exe
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.UI.pdb
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.BLL.dll
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.DAL.dll
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.BLL.pdb
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\bin\Debug\Seven.DAL.pdb
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.csprojResolveAssemblyReference.cache
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.Form1.resources
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.Properties.Resources.resources
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.csproj.GenerateResource.Cache
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.exe
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.pdb
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.CreateCategory.resources
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.UI\obj\Debug\Seven.UI.Account.resources

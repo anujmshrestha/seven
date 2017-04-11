@@ -1,0 +1,5 @@
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.DAL\bin\Debug\Seven.DAL.dll
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.DAL\bin\Debug\Seven.DAL.pdb
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.DAL\obj\Debug\Seven.DAL.csprojResolveAssemblyReference.cache
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.DAL\obj\Debug\Seven.DAL.dll
+C:\Users\gongmakz\Documents\Visual Studio 2015\Projects\Seven\Seven.DAL\obj\Debug\Seven.DAL.pdb
